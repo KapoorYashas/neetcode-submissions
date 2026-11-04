@@ -1,8 +1,8 @@
 # NeetCode Solutions — @KapoorYashas
 
-> Synced automatically from NeetCode · Repository: `neetcode-submissions`
-> NeetCode Profile: [NeetCode](https://neetcode.io/user/DynamicWayne624)
-> LeetCode Profile: [LeetCode](https://leetcode.com/u/Yashas1209/)
+Synced automatically from NeetCode · Repository: `neetcode-submissions`.
+NeetCode Profile: [NeetCode](https://neetcode.io/user/DynamicWayne624).
+LeetCode Profile: [LeetCode](https://leetcode.com/u/Yashas1209/).
 
 ---
 
